@@ -2,5 +2,5 @@ pureml_policy
 pureml 
 pureml_evaluate 
 xlrd 
-lightbgm 
+lightgbm
 ipykernel
